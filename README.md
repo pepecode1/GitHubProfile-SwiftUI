@@ -23,3 +23,4 @@ GitHub Profile App es una aplicación iOS desarrollada con **SwiftUI** y **Combi
    git clone https://github.com/pepecode1/GitHubProfile-SwiftUI.git
 
 ## Screenshots
+<img width="375" height="645" alt="1" src="https://github.com/user-attachments/assets/80cafbba-b6bb-4c8a-bbdd-63023eb40bd1" />
