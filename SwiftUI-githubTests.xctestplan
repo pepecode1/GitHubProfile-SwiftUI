@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "4EC26CE7-D7DD-4036-BC35-B61894A84D30",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:SwiftUI-github.xcodeproj",
+        "identifier" : "B1CF9F6E2E60F17700BB3E1D",
+        "name" : "SwiftUI-githubTests"
+      }
+    }
+  ],
+  "version" : 1
+}

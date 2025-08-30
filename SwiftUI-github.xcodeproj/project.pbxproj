@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B1CF9F932E60F69700BB3E1D /* REAMDE.md in Resources */ = {isa = PBXBuildFile; fileRef = B1CF9F922E60F69400BB3E1D /* REAMDE.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B1CF9F702E60F17700BB3E1D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		B1CF9F622E60F17500BB3E1D /* SwiftUI-github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-github.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CF9F6F2E60F17700BB3E1D /* SwiftUI-githubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-githubTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1CF9F792E60F17700BB3E1D /* SwiftUI-githubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-githubUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1CF9F922E60F69400BB3E1D /* REAMDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = REAMDE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		B1CF9F592E60F17500BB3E1D = {
 			isa = PBXGroup;
 			children = (
+				B1CF9F922E60F69400BB3E1D /* REAMDE.md */,
 				B1CF9F642E60F17500BB3E1D /* SwiftUI-github */,
 				B1CF9F722E60F17700BB3E1D /* SwiftUI-githubTests */,
 				B1CF9F7C2E60F17700BB3E1D /* SwiftUI-githubUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1CF9F932E60F69700BB3E1D /* REAMDE.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
